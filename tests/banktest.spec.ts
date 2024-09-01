@@ -17,8 +17,8 @@ test.describe('Banking Application Test Suite', () => {
   });
 
   test('End-to-end banking scenario', async () => {
-    const firstName = 'John';
-    const lastName = 'Doe';
+    const firstName = 'Michael';
+    const lastName = 'Ahiale';
     const postCode = '12345';
     const depositAmount = 1000;
     const withdrawPercentage = 0.2;
